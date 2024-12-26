@@ -9,7 +9,7 @@
 
 **Duration :** DEC TO JAN 2025
 
-**Mentor :** NEHA
+**Mentor :** Neela Santhosh Kumar
 
 # OVERVIEW OF THE PROJECT
 PROJECT : EXPLORATION DATA ANALYSIS (EDA) 
